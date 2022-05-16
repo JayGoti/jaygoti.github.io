@@ -1,6 +1,6 @@
 {
-    "name": "pdf_master_web",
-    "short_name": "pdf_master_web",
+    "name": "pdf_master",
+    "short_name": "pdf_master",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
